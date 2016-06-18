@@ -4,7 +4,7 @@
 Because, I had to manage many servers and had a file of ssh commands. And I had to copy and past the command lines each and everytime I want to loginto a server/instance.
 
 #For whom?
-Definitely geeks, who manage many servers of clients
+Definitely geeks, who manage many servers.
 
 #How to use?
 As I have told simplyfies the copy paste work;
