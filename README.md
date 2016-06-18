@@ -1,5 +1,3 @@
-# thedefamed
-
 #Why?
 Because, I had to manage many servers and had a file of ssh commands. And I had to copy and past the command lines each and everytime I want to loginto a server/instance.
 
