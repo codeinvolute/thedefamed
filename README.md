@@ -6,13 +6,17 @@ Because, I had to manage many servers and had a file of ssh commands. And I had 
 #For whom?
 Definitely geeks, who manage many servers of clients
 
-#What is the use of this tool?
+#How to use?
 As I have told simplyfies the copy paste work;
-loads the file with ssh commands 
-all you have to do is to select the line you want to execute/use as your command line.
+
+1. add your ssh commands to file(or any other name)
+2. specify the path for the same in your connect.sh(or anyname you had) 
+3. if shows any error while running file run (as ./connect.sh) the following command
+  1. chmod u+x connect.sh
+4. loads the file with ssh commands 
+5. all you have to do is to select the line you want to execute/use as your command line.
+
+*Tested on elementary OS(Debian built/ Ubuntu 14.04)
 
 #what awaits the future upgrade?
 I want to add a serch tool.. :-w (if possible). 
-
-#who am I and How I developed this?
-I had 0 knowledge in bash scripting till past 90 mins. Yes, developed all this in 90mins. Not sure if I took less time or more. But if you have any ideas to improvise my code am very much interested in your help :) 
